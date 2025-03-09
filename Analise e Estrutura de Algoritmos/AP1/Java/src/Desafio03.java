@@ -25,7 +25,7 @@ Algoritmo:
  */
 import javax.swing.JOptionPane;
 
-public class Desafio3 {
+public class Desafio03 {
     public static void main(String[] args) {
         String entrada = JOptionPane.showInputDialog("Segmento 1: ");
         int seg1 = Integer.parseInt(entrada);
