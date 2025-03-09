@@ -13,7 +13,7 @@ Algoritmo:
    - Somar o valor de 'c' com o de 'a' para calcular o próximo termo da sequência.
 4. Continuar o processo até que os 10 primeiros termos da sequência de Fibonacci sejam exibidos.
  */
-public class Desafio8 {
+public class Desafio08 {
     public static void main(String[] args) {
         int a = 1;
         int b = 0;
