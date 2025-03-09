@@ -18,7 +18,7 @@ pedir a entrada novamente.
 import javax.swing.JOptionPane;
 import java.util.Random;
 
-public class Desafio5 {
+public class Desafio05 {
     public static void main(String[] args) {
         Random rand = new Random();
         int sortear = rand.nextInt(5) + 1;
