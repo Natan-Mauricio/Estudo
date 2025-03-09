@@ -18,7 +18,7 @@ Algoritmo:
 import javax.swing.JOptionPane;
 import java.util.Random;
 
-public class Desafio6 {
+public class Desafio06 {
     public static void main(String[] args) {
         Random rand = new Random();
         int sortear = rand.nextInt(10) + 1;
