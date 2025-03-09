@@ -21,7 +21,7 @@ cada iteração:
  */
 import javax.swing.JOptionPane;
 
-public class Desafio7 {
+public class Desafio07 {
     public static void main(String[] args) {
         int termo = 0;
         int razao = 0;
