@@ -16,7 +16,7 @@ a vida em 10 minutos.
  */
 import javax.swing.JOptionPane;
 
-public class Desafio1 {
+public class Desafio01 {
     public static void main(String[] args) {
         String entrada = JOptionPane.showInputDialog("Cigarros fumados por dia: ");
         int qtd = Integer.parseInt(entrada);

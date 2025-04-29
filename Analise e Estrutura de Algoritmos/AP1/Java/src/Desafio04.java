@@ -19,7 +19,7 @@ correspondente ("Pedra", "Papel" ou "Tesoura").
 import java.util.Random;
 import javax.swing.JOptionPane;
 
-public class Desafio4 {
+public class Desafio04 {
     public static void main(String[] args) {
         Random rand = new Random();
         int pc = rand.nextInt(3) + 1;
