@@ -1,7 +1,7 @@
-# Locadora de Roupas e Fantasias
+# Locadora de Roupas e Fantasias:
 Sistema de gerenciamento para locadora de roupas e fantasias.
 
-## Funcionalidades
+## Funcionalidades:
 - Cadastro de roupas e clientes
 - Controle de locações e devoluções
 - Cálculo automático de valores e multas
